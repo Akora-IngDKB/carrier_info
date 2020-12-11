@@ -76,4 +76,5 @@ String carrierInfo = await CarrierInfo.radioType // LTE, HSDPA, e.t.c
 
 ## ✨ Contribution
 
+PR's are needed to make this plugin standard.
  Lots of PR's would be needed to make this plugin standard, as for iOS there's a permanent limitation for getting the exact data usage, there's only one way arount it and it's super complex.
